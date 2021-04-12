@@ -1,0 +1,4 @@
+#Thu Oct 29 17:13:11 ICT 2020
+base.0=/Volumes/data/Flutter/todoapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

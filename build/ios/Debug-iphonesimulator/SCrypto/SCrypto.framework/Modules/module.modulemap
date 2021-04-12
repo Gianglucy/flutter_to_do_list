@@ -1,0 +1,11 @@
+framework module SCrypto {
+  umbrella header "SCrypto-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SCrypto.Swift {
+    header "SCrypto-Swift.h"
+    requires objc
+}

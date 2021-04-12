@@ -1,0 +1,11 @@
+framework module flutter_string_encryption {
+  umbrella header "flutter_string_encryption-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_string_encryption.Swift {
+    header "flutter_string_encryption-Swift.h"
+    requires objc
+}
